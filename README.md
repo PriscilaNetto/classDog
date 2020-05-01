@@ -1,2 +1,2 @@
 # classDog
-Example using Class in Java language
+Example using Class in Java programming language
